@@ -1,0 +1,188 @@
+
+salut.png
+size: 421,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 1 копия
+  rotate: false
+  xy: 2, 459
+  size: 226, 51
+  orig: 228, 56
+  offset: 2, 3
+  index: -1
+Слой 1 копия 10
+  rotate: true
+  xy: 305, 579
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1
+Слой 1 копия 11
+  rotate: false
+  xy: 2, 591
+  size: 301, 132
+  orig: 301, 132
+  offset: 0, 0
+  index: -1
+Слой 1 копия 12
+  rotate: false
+  xy: 359, 897
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+Слой 1 копия 13
+  rotate: false
+  xy: 2, 293
+  size: 224, 164
+  orig: 224, 164
+  offset: 0, 0
+  index: -1
+Слой 1 копия 14
+  rotate: false
+  xy: 302, 492
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+Слой 1 копия 15
+  rotate: true
+  xy: 338, 108
+  size: 111, 77
+  orig: 111, 77
+  offset: 0, 0
+  index: -1
+Слой 1 копия 17
+  rotate: true
+  xy: 141, 151
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Слой 1 копия 18
+  rotate: false
+  xy: 316, 821
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+Слой 1 копия 19
+  rotate: false
+  xy: 2, 725
+  size: 312, 159
+  orig: 312, 159
+  offset: 0, 0
+  index: -1
+Слой 1 копия 2
+  rotate: false
+  xy: 2, 115
+  size: 110, 44
+  orig: 110, 44
+  offset: 0, 0
+  index: -1
+Слой 1 копия 3
+  rotate: true
+  xy: 228, 221
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+Слой 1 копия 4
+  rotate: true
+  xy: 141, 215
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+Слой 1 копия 5
+  rotate: true
+  xy: 2, 161
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: -1
+Слой 1 копия 6
+  rotate: false
+  xy: 225, 111
+  size: 111, 108
+  orig: 111, 108
+  offset: 0, 0
+  index: -1
+Слой 1 копия 7
+  rotate: true
+  xy: 236, 490
+  size: 99, 64
+  orig: 99, 64
+  offset: 0, 0
+  index: -1
+Слой 1 копия 8
+  rotate: true
+  xy: 2, 886
+  size: 113, 355
+  orig: 113, 355
+  offset: 0, 0
+  index: -1
+Слой 1 копия 9
+  rotate: true
+  xy: 230, 419
+  size: 69, 188
+  orig: 69, 188
+  offset: 0, 0
+  index: -1
+Слой 2
+  rotate: false
+  xy: 2, 13
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+Слой 3
+  rotate: true
+  xy: 2, 512
+  size: 77, 232
+  orig: 77, 232
+  offset: 0, 0
+  index: -1
+Слой 4
+  rotate: false
+  xy: 114, 99
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1
+Слой 5
+  rotate: false
+  xy: 316, 728
+  size: 29, 91
+  orig: 29, 91
+  offset: 0, 0
+  index: -1
+Слой 6
+  rotate: true
+  xy: 106, 2
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+Слой 7
+  rotate: false
+  xy: 325, 9
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+Слой 8
+  rotate: true
+  xy: 225, 13
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+Слой 9
+  rotate: false
+  xy: 359, 698
+  size: 55, 197
+  orig: 55, 197
+  offset: 0, 0
+  index: -1

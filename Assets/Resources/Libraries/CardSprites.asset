@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89202306f6235f4ca71e4ea80c1f95b, type: 3}
+  m_Name: CardSprites
+  m_EditorClassIdentifier: 
+  _cardSpritesDiamonds:
+  - {fileID: 21300000, guid: 9d3f6e65be7fca0418c97dcc8a3df9bf, type: 3}
+  - {fileID: 21300000, guid: 71f9ff34d93b41747a94679cfcf8004c, type: 3}
+  - {fileID: 21300000, guid: 7054ce55488f852469122594a1d14a3c, type: 3}
+  - {fileID: 21300000, guid: da3905e0ae07b7c48a2db2924548e6f1, type: 3}
+  - {fileID: 21300000, guid: 56e30ee99183e0b43b6cd9abf0175be1, type: 3}
+  - {fileID: 21300000, guid: e9093bc912140d442a35f0d4887626e8, type: 3}
+  - {fileID: 21300000, guid: e9817e221e652dd4e93f2431a811b037, type: 3}
+  - {fileID: 21300000, guid: 5987a706a585fbc46aa78700147ef40c, type: 3}
+  - {fileID: 21300000, guid: 5cb74c8f3cdbfe74bbe71f683ad82ff8, type: 3}
+  _cardSpritesHearts:
+  - {fileID: 21300000, guid: 63ae23fe309a48a4d861cb2b185d7ff6, type: 3}
+  - {fileID: 21300000, guid: b9eaeaea1ce01bb448d806fd3593598e, type: 3}
+  - {fileID: 21300000, guid: a0b07a4bcab3a1043bcf3e97ceb7f979, type: 3}
+  - {fileID: 21300000, guid: 357311ae8b9b89b49be4d2658bca3754, type: 3}
+  - {fileID: 21300000, guid: dccca48084fcb4e4f85a92b94362dbd8, type: 3}
+  - {fileID: 21300000, guid: f090e51e0a6d7e144a2ccd85536cf858, type: 3}
+  - {fileID: 21300000, guid: 490d89967f889534099dd8106ba1f2c4, type: 3}
+  - {fileID: 21300000, guid: c9eb74af5e97d854ba9c809d67ca54c1, type: 3}
+  - {fileID: 21300000, guid: b6048e13a0cd1554396fc52569eb2cb3, type: 3}
+  _cardSpritesSpades:
+  - {fileID: 21300000, guid: 9bd9368f758de1747a00beaedf90215e, type: 3}
+  - {fileID: 21300000, guid: 0f1a541017e116049bd0faa60b697b3e, type: 3}
+  - {fileID: 21300000, guid: 9e88328283619384b997493772d927cd, type: 3}
+  - {fileID: 21300000, guid: 08060a1f77c42644298240da9a7e4346, type: 3}
+  - {fileID: 21300000, guid: 1d2b7aaeb768b834ea38eccdf7e23fba, type: 3}
+  - {fileID: 21300000, guid: 0254f073bba181f41b35aa6a9f6e7fda, type: 3}
+  - {fileID: 21300000, guid: a39665232f5308f4983f2f2c398e5416, type: 3}
+  - {fileID: 21300000, guid: 7579632592f80c6479d4a3df47bf94b3, type: 3}
+  - {fileID: 21300000, guid: 18193240659f77f4c8f6b07b85ecfdfe, type: 3}
+  _cardSpritesClubs:
+  - {fileID: 21300000, guid: 5356728cdb409d04894ac3765ee7479d, type: 3}
+  - {fileID: 21300000, guid: 51c0d20ddec1661478b27a96fee5c3f0, type: 3}
+  - {fileID: 21300000, guid: 3cc3930ceb062c74b8e8fd3b79bee078, type: 3}
+  - {fileID: 21300000, guid: 1f910c01f4be14e4d8b2bc2724d93ecd, type: 3}
+  - {fileID: 21300000, guid: e05b673d0ed7efa4d9826d478d3bcef3, type: 3}
+  - {fileID: 21300000, guid: 29ff118aa6609314aae6295428c6e51c, type: 3}
+  - {fileID: 21300000, guid: 0b0c02b5769b7d64cabadcf808d0ae5a, type: 3}
+  - {fileID: 21300000, guid: 309ebae0b2478884c8c901dafa4a8d6a, type: 3}
+  - {fileID: 21300000, guid: 7e322f577fe19f140b5c604a64919926, type: 3}
+  _lightJoker: {fileID: 21300000, guid: ed793994e4291d24f950a4e8f154b2ea, type: 3}
+  _darkJoker: {fileID: 21300000, guid: c1d3a4044b149134089a3f8d2697e92d, type: 3}
